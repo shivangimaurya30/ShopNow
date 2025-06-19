@@ -63,6 +63,8 @@ ecommerce-frontend/
 └── tailwind.config.js
 
 ---
+```bash
+
 
 ## 🛠 Tech Stack Used
 
@@ -78,5 +80,8 @@ This project is deployed via **Netlify**:
 - **Publish directory:** `dist`
 
 🔗 **Visit Live Site:** [shopnow-by-shivangi.netlify.app](https://shopnow-by-shivangi.netlify.app)
+
+
+
 
 
