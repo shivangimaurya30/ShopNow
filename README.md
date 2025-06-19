@@ -7,29 +7,6 @@ ShopNow is a modern, responsive e-commerce frontend built using **React.js**, **
 
 ---
 
-## ▶️ How to Run This Project Locally
-
-To run the **ShopNow 🛍️** e-commerce project on your local development environment, follow these steps:
-
-### 📦 Prerequisites
-- Node.js (v14 or higher recommended)
-- npm (comes with Node.js)
-
-### 🛠️ Installation & Setup
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/shivangimaurya30/ShopNow.git
-
-# 2. Navigate into the project directory
-cd ShopNow
-
-# 3. Install all required dependencies
-npm install
-
-# 4. Start the development server
-npm run dev
-
 ## 📌 Features
 
 - 🛒 **Add to Cart**, Remove, Quantity Change
@@ -88,6 +65,29 @@ This project is deployed via **Netlify**:
 
 
 ---
+
+## ▶️ How to Run This Project Locally
+
+To run the **ShopNow 🛍️** e-commerce project on your local development environment, follow these steps:
+
+### 📦 Prerequisites
+- Node.js (v14 or higher recommended)
+- npm (comes with Node.js)
+
+### 🛠️ Installation & Setup
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/shivangimaurya30/ShopNow.git
+
+# 2. Navigate into the project directory
+cd ShopNow
+
+# 3. Install all required dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
 
 
 
