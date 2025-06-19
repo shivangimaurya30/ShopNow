@@ -46,9 +46,26 @@ ShopNow is a modern, responsive e-commerce frontend built using **React.js**, **
 
 ---
 
+## 🛠 Tech Stack Used
+- **HTML**
+- **Tailwind CSS**
+- **JavaScript**
+- **React.js**
+
+---
+
+## 🚀 Deployment
+
+This project is deployed via **Netlify**:
+
+- **Build command:** `npm run build`
+- **Publish directory:** `dist`
+
+🔗 **Visit Live Site:** [shopnow-by-shivangi.netlify.app] https://shopnow-by-shivangi.netlify.app
+
+
 ## 🗂️ Folder Structure
 
-```bash
 ecommerce-frontend/
 ├── public/                # favicon, index.html
 ├── src/
@@ -63,23 +80,31 @@ ecommerce-frontend/
 └── tailwind.config.js
 
 ---
+
+## ▶️ How to Run This Project Locally
+
+To run the **ShopNow 🛍️** e-commerce project on your local development environment, follow these steps:
+
+### 📦 Prerequisites
+- Node.js (v14 or higher recommended)
+- npm (comes with Node.js)
+
+### 🛠️ Installation & Setup
+
 ```bash
+# 1. Clone the repository
+git clone https://github.com/shivangimaurya30/ShopNow.git
+
+# 2. Navigate into the project directory
+cd ShopNow
+
+# 3. Install all required dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
 
 
-## 🛠 Tech Stack Used
-
-- **React.js**
-
----
-
-## 🚀 Deployment
-
-This project is deployed via **Netlify**:
-
-- **Build command:** `npm run build`
-- **Publish directory:** `dist`
-
-🔗 **Visit Live Site:** [shopnow-by-shivangi.netlify.app](https://shopnow-by-shivangi.netlify.app)
 
 
 
